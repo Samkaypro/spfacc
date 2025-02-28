@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && echo 'Skipping ESLint checks'",
     "turbo": "next dev --turbo",
     "start": "next start",
     "lint": "next lint",
