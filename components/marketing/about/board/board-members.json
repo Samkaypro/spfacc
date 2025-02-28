@@ -1,0 +1,63 @@
+{
+  "members": [
+    {
+      "id": "musa-adamu-aliyu",
+      "name": "Dr. Musa Adamu Aliyu",
+      "credentials": "SAN",
+      "position": "Chairman",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-iurs8VM7MVx8vuHcmOBrcbQ65hAVqq.png",
+      "bio": "Dr. Musa Adamu Aliyu, SAN is the Chairman of the Ondo State Public Complaints, Financial Crime and Anti-Corruption Commission (SPFACC)..."
+    },
+    {
+      "id": "adewole-adeyeye",
+      "name": "Professor Adewole Adeyeye",
+      "credentials": "PhD",
+      "position": "Secretary/Member of Board",
+      "image": "/placeholder.svg",
+      "bio": "Professor Adewole Adeyeye is presently the Secretary/Member of Board, Ondo State Public Complaints, Financial Crime and Anti-Corruption Commission (SPFACC). He was born into the family of Chief Asolo of Owo Kingdom on the 15th of June 1963. He attended Imade College Owo, but he eventually finished his secondary education at St Thomas Aquinas College, Akure in 1980. He attended Osogbo Grammar School for his Higher School Certificate (HSC) between 1980 and 1982. He later attended the University of Ibadan for his Bachelors degree in 1983. He did his National Youth Service Corps (NYSC) at Federal College of Education Osiele in 1987. He obtained two Master degrees in Business Administration (M.B.A) in 1991 and M.A. (Applied Ethics) from the University of Ibadan in 1994. He started work at Department of Business studies, Federal Polytechnic Ilaro as a lecturer I. He rose to the rank of Principal lecturer in 2007. He left the polytechnic to establish the Centre for Organisational and Professional Ethics (COPE AFRICA). In 2008, he bagged a doctorate degree (PhD) in Applied Ethics with specialization in International Business Ethics. In 2011, he joined Ondo State University of Science and Technology as a lecturer I and rose through the rank to become a Professor in 2018. He is the pioneer Head of General and Entrepreneurial Studies. Director, Centre for Entrepreneurship and Leadership Training (CELT). He is also the pioneer Dean, School of Management Science (SMS) of Olusegun Agagu University of Science and Technology. His research interests include: Business Ethics, Applied Ethics, Business and Management studies, Ethics of governance, Professional Ethics Anti-Corruption and Compliance. He has over 68 publications to his credit that include refereed journals, conference proceedings, technical reports, edited works and chapter contributions. Professor Adewole Adeyeye is a member of many national and international professional societies (APPE, SBE, DSA, WASBE, BEN-AFRICA), etc. He is a Lead consultant, United Nations Development Programme (UNDP), United Nations Convention against Corruption (UNCAC), United Nation Office on Drugs and Crime (UNODC), Zero Corruption Coalition (ZCC). He is a Certified Corruption Risk Assessor (CRA). He developed the Ethics Training manual for the 29 Police Training Schools (PTS) across Nigeria with full sponsorship by the United Nation Office on Drug and Crime (UNODC). He is a Technical Consultant to International Standard Organisations (ISO). He is a Consultant and Vice-Chair, National Mirror committee on ISO by the Standard Organisation of Nigeria (SON). He is the Founder/Executive Director, Centre for Organisational and Professional Ethics (COPE-AFRICA); Co-convener, Ethical practices worldwide, United Kingdom, Regulatory Institutional Network (REGNET) Africa-UK/Rwanda, Executive Secretary, West African Society on Business Ethics (WASBE), President, Global Best Educational Advancement Services Limited (GBEAS). He is a member Association of Professional Bodies of Nigeria (APBN), Fellow Ethics Centre, University of Cambridge. He has received various grants from organizations such as Carnegie Mellon, NCDMB. He is a visiting Professor to the University of Ibadan Business School. He is an accredited Due Process Observer by Bureau of Public Procurement (BPP) supervising about seventeen (17) federal government agencies. He is Due process Trainer. Prof Adeyeye is a World Bank accredited contract monitoring expert and Advisor to the Office of the Special Adviser to the President on CSO's. He was the Team Leader, UNODC/ICPC sponsored Constituency Project Tracking and Monitoring Team 2015 – 2019. He was the lead consultant, Oyo State Due Process Audit Team for Ministries, Department and Agencies 2011 to 2019.",
+      "education": [
+        "PhD in Applied Ethics (2008)",
+        "M.A. Applied Ethics, University of Ibadan (1994)",
+        "MBA, University of Ibadan (1991)",
+        "Bachelor's Degree, University of Ibadan (1983)"
+      ],
+      "achievements": [
+        "Professor at Olusegun Agagu University of Science and Technology (2018)",
+        "Pioneer Dean, School of Management Science",
+        "Director, Centre for Entrepreneurship and Leadership Training",
+        "Over 68 academic publications",
+        "Certified Corruption Risk Assessor"
+      ]
+    },
+    {
+      "id": "clifford-oparaodu",
+      "name": "Mr. Clifford Oparaodu",
+      "credentials": "DSSRS",
+      "position": "Secretary to the Commission",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-iurs8VM7MVx8vuHcmOBrcbQ65hAVqq.png",
+      "bio": "Mr. Clifford Oparaodu serves as the Secretary to the Commission..."
+    },
+    {
+      "id": "adamu-bello",
+      "name": "Hon. Justice Adamu Bello",
+      "position": "Honourable Member",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-iurs8VM7MVx8vuHcmOBrcbQ65hAVqq.png",
+      "bio": "Hon. Justice Adamu Bello serves as an Honourable Member of the Commission..."
+    },
+    {
+      "id": "grace-chinda",
+      "name": "Dr. Grace Chinda",
+      "position": "Honourable Member",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-iurs8VM7MVx8vuHcmOBrcbQ65hAVqq.png",
+      "bio": "Dr. Grace Chinda serves as an Honourable Member of the Commission..."
+    },
+    {
+      "id": "hannatu-mohammed",
+      "name": "Mrs. Hannatu Mohammed",
+      "position": "Member",
+      "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-iurs8VM7MVx8vuHcmOBrcbQ65hAVqq.png",
+      "bio": "Mrs. Hannatu Mohammed serves as a Member of the Commission..."
+    }
+  ]
+}
+

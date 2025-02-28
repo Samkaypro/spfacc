@@ -1,0 +1,392 @@
+{
+  "categories": [
+    {
+      "id": "official-visits",
+      "title": "Official Visits",
+      "description": "Diplomatic and official visits to SPFACC"
+    },
+    {
+      "id": "signing-ceremonies",
+      "title": "Signing Ceremonies",
+      "description": "MoU and agreement signing events"
+    },
+    {
+      "id": "public-events",
+      "title": "Public Events",
+      "description": "Public ceremonies and gatherings"
+    }
+  ],
+  "albums": [
+    {
+      "id": "ibadan-visit",
+      "categoryId": "official-visits",
+      "title": "Members of SPFACC on a Study Visit to the Commission",
+      "date": "2025-02-12",
+      "author": "Admin",
+      "description": "Network Visit to OYO State ICPC",
+      "coverImage": "/_static/images/pics/1/1.jpg",
+      "images": [
+        {
+          "id": "1",
+          "url": "/_static/images/pics/1/1.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "2",
+          "url": "/_static/images/pics/1/5.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "3",
+          "url": "/_static/images/pics/1/7.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "4",
+          "url": "/_static/images/pics/1/9.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "4",
+          "url": "/_static/images/pics/1/10.jpg",
+          "caption": "",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "workshop",
+      "categoryId": "public-events",
+      "title": "One day colloquium on ondo state public complaints and financial crime anti-corruption commission",
+      "date": "2024-12-02",
+      "author": "Admin",
+      "description": "One day colloquium on ondo state public complaints and financial crime anti-corruption commission",
+      "coverImage": "/_static/images/pics/3/1.jpg",
+      "images": [
+        {
+          "id": "1",
+          "url": "/_static/images/pics/3/1.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "2",
+          "url": "/_static/images/pics/3/2.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "3",
+          "url": "/_static/images/pics/3/3.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "5",
+          "url": "/_static/images/pics/3/5.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "6",
+          "url": "/_static/images/pics/3/7.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "8",
+          "url": "/_static/images/pics/3/8.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "9",
+          "url": "/_static/images/pics/3/9.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "10",
+          "url": "/_static/images/pics/3/10.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "11",
+          "url": "/_static/images/pics/3/11.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "12",
+          "url": "/_static/images/pics/3/12.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "13",
+          "url": "/_static/images/pics/3/13.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "15",
+          "url": "/_static/images/pics/3/15.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "16",
+          "url": "/_static/images/pics/3/16.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "7",
+          "url": "/_static/images/pics/3/10.jpg",
+          "caption": "",
+          "alt": ""
+        }
+       
+        
+      ]
+    },
+
+    {
+      "id": "spfacc",
+      "categoryId": "public-events",
+      "title": "Collaborative Visit to the  Ondo State Command, Nigerian Security and Civil Defence Corps (NSCDC)",
+      "date": "2025-02-10",
+      "author": "Admin",
+      "description": "Collaborative Visit to the Ondo State Command, Nigerian Security and Civil Defence Corps (NSCDC)",
+      "coverImage": "/_static/images/pics/2/2.jpg",
+      "images": [
+       
+        {
+          "id": "2",
+          "url": "/_static/images/pics/2/2.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "3",
+          "url": "/_static/images/pics/2/3.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "5",
+          "url": "/_static/images/pics/2/5.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "6",
+          "url": "/_static/images/pics/2/9.jpg",
+          "caption": "",
+          "alt": ""
+        }
+        
+      ]
+    },
+    {
+      "id": "spfacc-1",
+      "categoryId": "public-events",
+      "title": "Capacity building workshop of anti- corruption for officials and stakeholders of local government across Ondo state",
+      "date": "2024-09-16",
+      "author": "Admin",
+      "description": "Capacity building workshop of anti- corruption for officials and stakeholders of local government across Ondo state",
+      "coverImage": "/_static/images/pics/5/1.jpg",
+      "images": [
+        {
+          "id": "1",
+          "url": "/_static/images/pics/5/1.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "2",
+          "url": "/_static/images/pics/5/2.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "3",
+          "url": "/_static/images/pics/5/3.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "5",
+          "url": "/_static/images/pics/5/5.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "6",
+          "url": "/_static/images/pics/5/6.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "7",
+          "url": "/_static/images/pics/5/7.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "8",
+          "url": "/_static/images/pics/5/8.jpg",
+          "caption": "",
+          "alt": ""
+        }
+        
+      
+      ]
+    },
+    {
+      "id": "spfacc-3",
+      "categoryId": "public-events",
+      "title": "Monitoring of local government election against vote buying and selling",
+      "date": "2024-09-16",
+      "author": "Admin",
+      "description": "SPFACC Officials monitoring the local government election against vote buying and selling",
+      "coverImage": "/_static/images/pics/7/10.jpg",
+      "images": [
+        {
+          "id": "1",
+          "url": "/_static/images/pics/7/1.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "2",
+          "url": "/_static/images/pics/7/2.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "3",
+          "url": "/_static/images/pics/7/3.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "5",
+          "url": "/_static/images/pics/7/5.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "6",
+          "url": "/_static/images/pics/7/6.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "7",
+          "url": "/_static/images/pics/7/7.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "8",
+          "url": "/_static/images/pics/7/8.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "9",
+          "url": "/_static/images/pics/7/9.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "10",
+          "url": "/_static/images/pics/7/10.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "11",
+          "url": "/_static/images/pics/7/11.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "12",
+          "url": "/_static/images/pics/7/12.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "13",
+          "url": "/_static/images/pics/7/13.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "15",
+          "url": "/_static/images/pics/7/15.jpg",
+          "caption": "",
+          "alt": ""
+        }
+      
+      ]
+    },
+    {
+      "id": "spfacc-2",
+      "categoryId": "public-events",
+      "title": "Capacity building workshop of anti- corruption for officials and stakeholders of local government across Ondo state",
+      "date": "2024-09-16",
+      "author": "Admin",
+      "description": "Capacity building workshop of anti- corruption for officials and stakeholders of local government across Ondo state",
+      "coverImage": "/_static/images/pics/6/1.jpg",
+      "images": [
+        {
+          "id": "1",
+          "url": "/_static/images/pics/6/1.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "2",
+          "url": "/_static/images/pics/6/2.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "3",
+          "url": "/_static/images/pics/6/3.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "5",
+          "url": "/_static/images/pics/6/5.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "6",
+          "url": "/_static/images/pics/6/6.jpg",
+          "caption": "",
+          "alt": ""
+        },
+        {
+          "id": "7",
+          "url": "/_static/images/pics/6/7.jpg",
+          "caption": "",
+          "alt": ""
+        }
+        
+      
+      ]
+    }
+  ]
+}
+
