@@ -1,3 +1,5 @@
+/* eslint-disable tailwindcss/classnames-order */
+
 import { Skeleton } from "@/components/ui/skeleton"
 
 export default function Loading() {

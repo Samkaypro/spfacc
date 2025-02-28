@@ -1,3 +1,4 @@
+/* eslint-disable tailwindcss/classnames-order */
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import MaxWidthWrapper from "@/components/shared/max-width-wrapper";

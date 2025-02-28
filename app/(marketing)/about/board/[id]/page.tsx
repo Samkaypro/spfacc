@@ -1,3 +1,5 @@
+/* eslint-disable tailwindcss/classnames-order */
+
 import { promises as fs } from "fs"
 import path from "path"
 import Image from "next/image"

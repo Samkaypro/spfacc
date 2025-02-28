@@ -1,3 +1,4 @@
+/* eslint-disable tailwindcss/classnames-order */
 import { redirect } from "next/navigation";
 
 import { sidebarLinks } from "@/config/dashboard";

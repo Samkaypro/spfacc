@@ -1,3 +1,4 @@
+/* eslint-disable tailwindcss/classnames-order */
 "use client";
 import React, { useEffect, useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";

@@ -1,3 +1,4 @@
+/* eslint-disable tailwindcss/classnames-order */
 import React, { useEffect, useState, FC } from 'react';
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
