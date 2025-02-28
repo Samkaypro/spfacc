@@ -5,7 +5,7 @@ import Image from "next/image"
 import { useParams, useRouter } from "next/navigation"
 import { ArrowLeft, Calendar, User } from "lucide-react"
 import { Button } from "@/components/ui/button"
-//import { PhotoModal } from "@/components/photo-modal"
+import { PhotoModal } from "../photo-modal"
 import { Badge } from "@/components/ui/badge"
 import galleryData from "@/data/photo-gallery.json"
 
